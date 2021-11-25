@@ -1,0 +1,1 @@
+CRUD simples feito em Python com utilização do MySQL para exercitar o aprendizado da linguagem
